@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+*.log
+nbproject/private/
+build/
+dist/
+.DS_Store
+Thumbs.db
